@@ -1,8 +1,8 @@
 {
-  "name": "unusedtreewebpackplugin",
-  "version": "1.0.0",
+  "name": "unusedtreewebpackplugin-dc",
+  "version": "0.0.1",
   "description": "",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Bruce Deng",
   "type": "commonjs",
   "main": "index.js",
